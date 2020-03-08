@@ -1,3 +1,25 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "ja"
+title = "My New"
+theme = "hugo-pacman-theme"
+publishDir = "docs"
+paginate = 10
+pygmentsStyle = "default"
+pygmentsUseClasses = true
+
+
+[Author]
+  Name = "ExitBowie"
+
+[Params]
+  AuthorHomepage = "https://blog.coderzh.com"
+  BottomIntroduce = "Introduce1 <br/> Introduce2"
+  Description = ""
+  Subtitle = "subtitle"
+  Twitter = "ExitBowie"
+  GitHub = "ExitBowie"
+  Imglogo = "img/Exit.jpg"
+  AuthorImg = "img/Exit.jpg"
+  DateFormat = "2006年01月02日"
+  MonthFormat = "2006年01月"
+  FancyBox = true
