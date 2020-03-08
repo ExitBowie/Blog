@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://exitbowie.github.io/Blog/"
 languageCode = "ja"
 title = "My New"
 theme = "hugo-pacman-theme"
