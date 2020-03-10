@@ -1,6 +1,6 @@
 baseURL = "https://exitbowie.github.io/Blog/"
 languageCode = "ja"
-title = "みざらし紀行"
+title = "未ざらし紀行"
 theme = "hugo-pacman-theme"
 publishDir = "docs"
 paginate = 10
