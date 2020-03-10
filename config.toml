@@ -18,16 +18,16 @@ pygmentsUseClasses = true
 
 [Params]
   AuthorHomepage = "https://exitbowie.github.io/Blog/"
-  BottomIntroduce = "電通大にいるミドリムシ<br/> Introduce2"
-  Description = "ブログです"
+  BottomIntroduce = "電通大にいるミドリムシ<br/>"
+  Description = "多分ブログです"
   Subtitle = "いつまでも未晒しでありたい..."
   Twitter = "ExitBowie"
   GitHub = "ExitBowie"
-  Imglogo = "img/logo.svg"
+  Imglogo = "image/Euglena.png"
   AuthorImg = "image/Exit.jpg"
   DateFormat = "2006年01月02日"
   MonthFormat = "2006年01月"
-  FancyBox = false
+  FancyBox = true
 
   [Params.GoogleAnalytics]
     ID = "UA-10147768-2"
@@ -37,10 +37,9 @@ pygmentsUseClasses = true
 
   [Params.Strings]
     Search = "Search"
-    ShowSideBar = "バー"
     Categories = "カテゴリ"
     Tags = "タグ"
-    TagCloud = "Tag"
+    TagCloud = "Tag Cloud"
     Rss = "RSS"
     TableOfContents = "目次"
 
@@ -53,3 +52,8 @@ pygmentsUseClasses = true
     Name = "about"
     URL = "/about"
     Weight = 2
+  [[Menu.Main]]
+    Name = "投稿"
+    URL = "/post"
+    Weight = 2
+
