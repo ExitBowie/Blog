@@ -32,7 +32,7 @@ HasCJKLanguage = true
   FancyBox = true
 
   [Params.GoogleAnalytics]
-    ID = "UA-10147768-2"
+    ID = "UA-160617140-1"
 
   [Params.Disqus]
     ShortName = "Exit"
