@@ -5,6 +5,8 @@ theme = "hugo-pacman-theme"
 publishDir = "docs"
 paginate = 10
 pygmentsUseClasses = true
+pygmentsStyle = "default"
+HasCJKLanguage = true
 
 [Author]
   Name = "ExitBowie"
