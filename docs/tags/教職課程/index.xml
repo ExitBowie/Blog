@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>未ざらし紀行</title>
-    <link>https://exitbowie.github.io/Blog/index.xml</link>
-    <description>Recent content on 未ざらし紀行</description>
+    <title>教職課程 on 未ざらし紀行</title>
+    <link>https://exitbowie.github.io/Blog/tags/%E6%95%99%E8%81%B7%E8%AA%B2%E7%A8%8B/</link>
+    <description>Recent content in 教職課程 on 未ざらし紀行</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Mar 2020 22:10:21 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 01:45:54 +0900</lastBuildDate>
     
-	<atom:link href="https://exitbowie.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://exitbowie.github.io/Blog/tags/%E6%95%99%E8%81%B7%E8%AA%B2%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -40,30 +40,6 @@
 そんな中、教育心理学のような人文系の科目を受けると一週間のアクセントになるんですねこれが。
  3について、 男女の出会いはほぼないと思います。
 だって教職と言えど電通大だもの。</description>
-    </item>
-    
-    <item>
-      <title>初投稿</title>
-      <link>https://exitbowie.github.io/Blog/post/post1/</link>
-      <pubDate>Wed, 11 Mar 2020 01:07:45 +0900</pubDate>
-      
-      <guid>https://exitbowie.github.io/Blog/post/post1/</guid>
-      <description>初投稿です(ガチ)</description>
-    </item>
-    
-    <item>
-      <title>自己紹介とか</title>
-      <link>https://exitbowie.github.io/Blog/about/</link>
-      <pubDate>Tue, 10 Mar 2020 22:10:21 +0900</pubDate>
-      
-      <guid>https://exitbowie.github.io/Blog/about/</guid>
-      <description>はじめに こんにちは。ミドリムシです。
-hugoとgithub pagesを使ってサイトを作ってみました。
-markdownを使うのは初めてですけど使いこなせるようにがんばります。
-twitterでは書ききれないことや備忘録代わりに色々書いて行きたいですね。
-自己紹介 電気通信大学Ⅱ類セキュリティ情報学プログラムにいます。2018年入学です。
-大学では総単位数200を目指して教職科目やら他類,他エリアの科目も履修していますが、何もできず自分が何をしたいのかもわからずで多分迷走しています。
-twitterばかりしています。くだらないことばかり呟いているので閲覧注意です&amp;hellip;</description>
     </item>
     
   </channel>
