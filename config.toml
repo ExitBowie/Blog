@@ -7,6 +7,7 @@ paginate = 10
 pygmentsUseClasses = true
 pygmentsStyle = "default"
 HasCJKLanguage = true
+googleAnalytics = "UA-160617140-1"
 
 [Author]
   Name = "ExitBowie"
