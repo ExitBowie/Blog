@@ -5,7 +5,7 @@ draft: false
 image: ""
 categories: ["模擬授業","教材"]
 tags: ["模擬授業","教材"]
-thumbnailImage: "/img/noimage.jpg"
+thumbnailImage: "img/noimage.jpg"
 ---
 
 # 単位円

@@ -4,7 +4,7 @@ date: ""
 draft: false
 categories: [""]
 tags: ["",""]
-thumbnailImage: "/img/noimage.jpg"
+thumbnailImage: "img/noimage.jpg"
 slug: ""
 ---
 

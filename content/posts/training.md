@@ -5,7 +5,7 @@ draft: false
 image: ""
 categories: ["電通大",""]
 tags: ["教職課程","履修","電通大"]
-thumbnailImage: "/img/noimage.jpg"
+thumbnailImage: "img/noimage.jpg"
 ---
 
 # 教職課程はいいぞ

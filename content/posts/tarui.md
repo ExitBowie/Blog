@@ -4,7 +4,7 @@ date: 2020-04-04T02:47:00+09:00
 draft: false
 categories: ["電通大"]
 tags: ["電通大","履修","他類"]
-thumbnailImage: "/img/noimage.jpg"
+thumbnailImage: "img/noimage.jpg"
 ---
 
 ## 他類履修とは?

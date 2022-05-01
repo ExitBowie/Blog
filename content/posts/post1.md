@@ -5,6 +5,6 @@ draft: false
 image: ""
 categories: ["その他",""]
 tags: ["",""]
-thumbnailImage: "/img/noimage.jpg"
+thumbnailImage: "img/noimage.jpg"
 ---
 初投稿です(ガチ)
