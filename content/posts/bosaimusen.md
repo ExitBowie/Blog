@@ -4,7 +4,7 @@ date: 2020-04-07T20:57:56+09:00
 draft: false
 categories: ["情報開示"]
 tags: ["調布市","防災無線","情報開示","1645"]
-thumbnailImage: "/img/noimage.jpg"
+thumbnailImage: /img/noimage.jpg
 slug: "1645"
 ---
 # 調布市で16時45分に鳴るアレ
