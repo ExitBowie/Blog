@@ -2,6 +2,7 @@
 #sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link:hover
 {
     color: #9fff9f;
+    font-size: 10px;
 }
 
 #header .header-title .header-title-link
@@ -12,4 +13,9 @@
 .postShorten-group .postShorten
 {
     border-bottom:1px solid #313131;
+}
+
+.sidebar-button-desc
+{
+    font-size: 1.3rem;
 }

@@ -72,6 +72,18 @@ publishDir = "docs"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
   url = "/"
 [[menu.main]]
+  weight = 1.1
+  identifier = "blog"
+  name = "ブログ"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
+  url = "/posts"
+[[menu.main]]
+  weight = 1.5
+  identifier = "trip"
+  name = "旅行"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-door-open\" aria-hidden=\"true\"></i>"
+  url = "/trip"
+[[menu.main]]
   weight = 2
   identifier = "categories"
   name = "Categories"
@@ -89,12 +101,7 @@ publishDir = "docs"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
   url = "/archives"
-[[menu.main]]
-  weight = 5
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-  url = "/#about"
+
 
 #[[menu.links]]
   #weight = 1
@@ -105,7 +112,7 @@ publishDir = "docs"
 [[menu.links]]
   weight = 2
   identifier = "twitter"
-  name = "twitter"
+  name = "ExitBowie"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-twitter\" aria-hidden=\"true\"></i>"
   url = "https://twitter.com/ExitBowie"
 
@@ -115,6 +122,13 @@ publishDir = "docs"
   name = "RSS"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss\" aria-hidden=\"true\"></i>"
   url = "/index.xml"
+
+[[menu.sub]]
+  weight = 1
+  identifier = "abo"
+  name = "About"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+  url = "/#about"
 
 # -------------
 # Customization
@@ -174,7 +188,7 @@ publishDir = "docs"
   #    large sidebar is swiped on all lower screens
   # 5: Display header bar on all screens and large sidebar is swiped on large screen
   # 6: Display header bar on all screens and medium sidebar is swiped
-  sidebarBehavior = 1
+  sidebarBehavior = 2
 
   # Customize link of author avatar in sidebar
   #  [params.sidebar.profile]
@@ -206,7 +220,7 @@ publishDir = "docs"
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  #  favicon = "/favicon.png"
+  favicon = "images/Exit.jpg"
 
   # ------------------
   # External resources
