@@ -20,8 +20,7 @@ theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-160617140-1"
 paginate = 7
-canonifyurls = false
-canonifyURLs = false
+canonifyurls = true
 publishDir = "docs"
 # ページコンテンツの絵文字のサポートを有効化
 enableEmoji = true
