@@ -15,7 +15,7 @@
 baseURL = "https://exitbowie.github.io/Blog/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "未晒し紀行"
+title = "未晒し紀行2"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-160617140-1"
