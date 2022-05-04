@@ -46,10 +46,7 @@ enableEmoji = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-    [markup.tableOfContents]
-        endLevel = 2
-        ordered = true
-        startLevel = 2
+
 # ------
 # Author
 # ------
