@@ -4,6 +4,8 @@
       {{ partial "header.html" . }}
       {{ partial "sidebar.html" . }}
       {{ partial "post/header-cover.html" . }}
+      <h2>目次</h2>
+      {{ .TableOfContents }}
       <div id="main" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}"
         class="{{ with .Params.coverimage }}hasCover{{ end }}
                {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
