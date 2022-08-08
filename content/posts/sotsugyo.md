@@ -40,7 +40,7 @@ slug: "sotugyo"
 
 ### 一級陸上特殊無線技士，二級海上特殊無線技士
 　電磁波工学，電子機器システム学(代替科目あり)，電気電子計測(代替科目あり)，通信法規の4科目を取ることで申請できました．
-　光の反射で富士山が浮かび上がるのがホロレアカードみたいで，届いたときにはテンション上がりました．
+光の反射で富士山が浮かび上がるのがホロレアカードみたいで，届いたときにはテンション上がりました．
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/ZRF4Q1y8Qw">pic.twitter.com/ZRF4Q1y8Qw</a></p>&mdash; Exit (@ExitBowie) <a href="https://twitter.com/ExitBowie/status/1535501297259905025?ref_src=twsrc%5Etfw">June 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 　申請方法は[総務省](https://www.tele.soumu.go.jp/j/download/radioope/)のホームページに要綱と申請書類がありますのでそちらを確認すると良いかと思います．
