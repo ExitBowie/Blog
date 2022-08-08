@@ -39,7 +39,14 @@ slug: "sotugyo"
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">とろ〜り3種の教員免許牛丼 <a href="https://t.co/NY2FT9EzST">pic.twitter.com/NY2FT9EzST</a></p>&mdash; Exit (@ExitBowie) <a href="https://twitter.com/ExitBowie/status/1506879510062403594?ref_src=twsrc%5Etfw">March 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 一級陸上特殊無線技士，二級海上特殊無線技士
-　電磁波工学，電子機器システム学，電気電子計測，通信法規の4科目を取ることで申請できました．現在申請中ですので，免許が届き次第追記，あるいは別記事で紹介したいと思います．
+　電磁波工学，電子機器システム学(代替科目あり)，電気電子計測(代替科目あり)，通信法規の4科目を取ることで申請できました．
+　光の反射で富士山が浮かび上がるのがホロレアカードみたいで，届いたときにはテンション上がりました．
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/ZRF4Q1y8Qw">pic.twitter.com/ZRF4Q1y8Qw</a></p>&mdash; Exit (@ExitBowie) <a href="https://twitter.com/ExitBowie/status/1535501297259905025?ref_src=twsrc%5Etfw">June 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+　申請方法は[総務省](https://www.tele.soumu.go.jp/j/download/radioope/)のホームページに要綱と申請書類がありますのでそちらを確認すると良いかと思います．
+手順は結構簡単で，電通大生の場合は必要書類(卒業証明，成績証明，住民票の写し，返信用封筒)を揃え，九段下の関東総合通信局に送りつけるか持ちこめばOKです．
+申請手数料の収入印紙は免許1枚につき1750円かかります．陸特と海特を申請する人は郵便局で1750円分の収入印紙を2セット欲しいと郵便窓口で相談するとよしなにやってくれるのではないでしょうか？
+![収入印紙](/img/sotugyo/印紙.jpg)
 
 ## 研究室配属
 　Ⅱ類のセキュリティ情報学プログラムから先端ロボティクスプログラム内の研究室を志望しました．この場合，特殊な配属フローとなります．これを利用するためには，GPAが2.6以上必要となります．
